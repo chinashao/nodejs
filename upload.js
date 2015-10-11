@@ -1,6 +1,6 @@
 //自定义参数区
-var basePath='e:/';//上传的根路径
-var tempPath='c:/';
+var basePath='/tmp';//上传的根路径
+var tempPath='/tmp';
 var redis_ip='127.0.0.1';
 var redis_port=11000;
 var redis_dbindex=5;
